@@ -49,8 +49,11 @@ affinity: {}
 
 serviceName: test1
 
-subtest:
-  serviceName: test2
+second:
+  serviceName: mrrrrrr
+
+barabuda:
+  serviceName: serv barabuda
 
 subtest:
   subtest2:
